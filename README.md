@@ -1,16 +1,19 @@
-### Hi there 👋
+###                                     Hello there 👋 , i'm Divinelove/levon
 
-<!--
-**Levon-coder1/Levon-coder1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ I'm divinelove, 21,  a web developer, intermediate graphic designer and software engineer in training mainly focusing on back-end 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+- 🔭 I’m currently working on OMANA website
+- 🌱 I’m currently learning C, js
+- 👯 I’m looking to collaborate on any web dep/SE projects
+- 🤔 I’m looking for help with UX/UI ideas
+- 💬 Ask me about anything 
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
